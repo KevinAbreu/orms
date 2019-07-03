@@ -28,3 +28,5 @@ ActiveRecord::Schema.define(version: 2019_07_03_151338) do
   end
 
 end
+
+#Creates tables. That's it.

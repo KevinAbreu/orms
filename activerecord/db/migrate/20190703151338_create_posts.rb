@@ -9,3 +9,5 @@ class CreatePosts < ActiveRecord::Migration[5.2]
     end
   end
 end
+
+#Follow the create users way, and use it to post content
